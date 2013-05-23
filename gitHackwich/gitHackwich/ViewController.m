@@ -21,6 +21,8 @@
     
     NSLog(@"git up-ah, git on up");
     NSLog(@"second try to get an M by my file");
+    
+    NSLog(@"this is a log from xCode after the second commit/push");
    
 }
 

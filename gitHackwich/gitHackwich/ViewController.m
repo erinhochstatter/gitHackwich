@@ -18,6 +18,10 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    NSLog(@"git up-ah, git on up");
+    NSLog(@"second try to get an M by my file");
+   
 }
 
 - (void)didReceiveMemoryWarning
